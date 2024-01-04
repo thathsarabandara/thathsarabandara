@@ -3,7 +3,7 @@
 - 💻 My journey involves coding adventures in languages like HTML,CSS, Python, Java, and C++. I enjoy problem-solving and collaborating on exciting projects that challenge my abilities.
 - 🌐 Exploring the vast landscape of computer science, I'm always eager to learn and contribute to open-source projects. Let's connect and build something awesome together!
 -📫 Reach out to me:
-- LinkedIn: [Thathsara Bandara]((https://www.linkedin.com/in/thathsara-arumapperuma-b403582a7/))
+- LinkedIn: [Thathsara Bandara](https://www.linkedin.com/in/thathsara-bandara-b403582a7/)
 - Email: thathsaraarumapperuma@gmail.com
 
    Happy coding! 🚀
