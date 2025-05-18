@@ -1,7 +1,7 @@
 <h1 align="center"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="42" height="42">
-</picture> Thathsara Bandara - The Code Storm <picture>
+</picture> Thathsara Bandara <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" alt="🌪" width="42" height="42">
 </picture></h1>
@@ -16,14 +16,6 @@
 # Deciphering the code... ☠️
 ```
 
-```plaintext
-                                        ███████╗████████╗ ██████╗ ██████╗ ███╗   ███╗
-                                        ██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗████╗ ████║
-                                        ███████╗   ██║   ██║   ██║██████╔╝██╔████╔██║
-                                        ╚════██║   ██║   ██║   ██║██ ██║  ██║╚██╔╝██║
-                                        ███████║   ██║   ╚██████╔╝██║  ██ ██║ ╚═╝ ██║
-                                        ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
-```
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0FF000&lines=Hello,+I+am+Thathsara+Bandara;A+Passionate+Software+Engineer;At+Faculty+Of+Computing+|+USJ;Web+Developer+|+Mobile+Developer;IoT+Enthusiast+|+AI+Enthusiast;Exploring+the+Hacker+Universe...;Decrypting+the+Future...)](https://git.io/typing-svg)
