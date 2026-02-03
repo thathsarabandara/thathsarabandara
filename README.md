@@ -221,7 +221,7 @@ const Thathsara = {
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=thathsarabandara&theme=dark" alt="thathsarabandara" />
+        <img src="https://github-profile-trophy-o21prt7yh-ryo-ma-s-team.vercel.app/?username=thathsarabandara&theme=dark" alt="thathsarabandara" />
     </a> 
 </p>
 
